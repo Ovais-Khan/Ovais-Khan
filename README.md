@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Build Your Own SIEM | Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Build Your Own SIEM | Lab](https://github.com/Ovais-Khan/SIEM-LAB)
 
 
 <h2>📺 Popular YouTube Videos</h2>
